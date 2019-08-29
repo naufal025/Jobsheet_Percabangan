@@ -48,7 +48,7 @@
 #Hasil Dua Puluh Empat
 ![AltText](https://github.com/naufal025/Jobsheet_Percabangan/blob/master/js%207%20vi%20(4).PNG "Hasil Dua Puluh Empat")
 #Hasil Dua Puluh Lima
-![AltText](https://github.com/naufal025/Jobsheet_Percabangan/blob/master/js%207%20vi%20(5).PNG "Hasil Dua Puluh Lima')
+![AltText](https://github.com/naufal025/Jobsheet_Percabangan/blob/master/js%207%20vi%20(5).PNG "Hasil Dua Puluh Lima")
 #Hasil Dua Puluh Enam
 ![AltText](https://github.com/naufal025/Jobsheet_Percabangan/blob/master/js%207%20vi%20(7).PNG "Hasil Dua Puluh Enam")
 #Hasil Dua Puluh Tujuh
