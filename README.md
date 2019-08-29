@@ -54,4 +54,4 @@
 #Hasil Dua Puluh Tujuh
 ![AltText](https://github.com/naufal025/Jobsheet_Percabangan/blob/master/milkshake%20banana.PNG "Hasil Dua Puluh Tujuh")
 #Hasil Dua Puluh Delapan
-![AltText])https://github.com/naufal025/Jobsheet_Percabangan/blob/master/sandwich%20telur.PNG "Hasil Dua Puluh Delapan")
+![AltText](https://github.com/naufal025/Jobsheet_Percabangan/blob/master/sandwich%20telur.PNG "Hasil Dua Puluh Delapan")
